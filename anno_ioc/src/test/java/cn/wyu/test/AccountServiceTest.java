@@ -44,5 +44,6 @@ public class AccountServiceTest {
     @Test
     public void testDeleteAccount(){
         as.deleteAccount(5);
+        //ok
     }
 }
